@@ -1,4 +1,3 @@
-
 extern crate exitcode;
 use std::process;
 use std::io::{Error, ErrorKind};
